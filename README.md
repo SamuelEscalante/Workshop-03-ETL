@@ -1,3 +1,5 @@
+![image](https://github.com/SamuelEscalante/Workshop-03-ETL/assets/111151068/fbcb1e35-3c5f-4adc-ab81-00409c37d3d5)
+
 Presented by Samuel Escalante Gutierrez - [@SamuelEscalante](https://github.com/SamuelEscalante)
 
 ### Tools used
@@ -7,7 +9,8 @@ Presented by Samuel Escalante Gutierrez - [@SamuelEscalante](https://github.com/
 - **PostgreSQL** <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="Postgres" width="21px" height="21px">
 - **SQLAlchemy** <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQLalchemy" width="50px" height="21px">
 - **Docker** <img src="https://svgl.app/library/docker.svg" alt="Docker" width="50px" height="21px">
-- **Apache Airflow**  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Kafka.component.complex-narrative-xl.ts=1690916200661.png/content/adobe-cms/es/es/products/instana/supported-technologies/apache-kafka-observability/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="Kafka" width="50px" height="25px">
+- **Apache Kafka**  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Kafka.component.complex-narrative-xl.ts=1690916200661.png/content/adobe-cms/es/es/products/instana/supported-technologies/apache-kafka-observability/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="Kafka" width="50px" height="25px">
+
 ---
 ### Workflow
 ![workshop3-workflow_](https://github.com/SamuelEscalante/Workshop-03-ETL/assets/111151068/f9223940-2b95-456a-bc69-d57f550bd0e0)
@@ -24,8 +27,7 @@ Only dataset from 2015 to 2019
 ---
 ### Project organization
 
-![tree (1)](https://github.com/SamuelEscalante/Workshop-02-ETL/assets/111151068/dab96c3e-34dc-4d31-97e9-aa6fae230180)
-
+![carpetas-workshop3](https://github.com/SamuelEscalante/Workshop-03-ETL/assets/111151068/f781a593-63e1-41e9-936a-2f0ba7a5c3d5)
 ---
 
 #### Applications :
@@ -124,3 +126,9 @@ Up to this point you would install all the libraries and create the venv , now y
 
 
 ## Farewell and Thanks
+
+Thank you for visiting our repository! We hope you find this project useful. If it has been helpful or you simply liked it, consider giving the repository a star! 🌟
+
+We would love to hear your feedback, suggestions, or contributions.
+
+Thanks for your support! 👋
